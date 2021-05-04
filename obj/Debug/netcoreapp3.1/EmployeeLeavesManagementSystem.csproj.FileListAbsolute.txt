@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.exe
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.deps.json
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.runtimeconfig.json
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.dll
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\bin\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.pdb
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.dll
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.pdb
+C:\Users\lenovo\source\repos\EmployeeLeavesManagementSystem\EmployeeLeavesManagementSystem\obj\Debug\netcoreapp3.1\EmployeeLeavesManagementSystem.genruntimeconfig.cache
